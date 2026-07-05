@@ -1,7 +1,7 @@
 # Digital Marketing Internship — Week 1
 
 ## Internship Name
-[Dawood tech next gen/Digital marketing]
+Dawood tech next gen/Digital marketing
 
 ## Week Number
 Week 1
